@@ -1,0 +1,1 @@
+Just go read the [license](CMYF.txt).
