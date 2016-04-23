@@ -1,0 +1,61 @@
+                    CROSS ME & YOU'RE FUCKED PUBLIC LICENSE
+                            Version 1, April 2016 
+
+                    Copyright (C) 2016 Cooper Pellaton 
+
+      Everyone is permitted to copy and distribute verbatim or modified 
+      copies of this license document, and changing it is allowed as long 
+      as the name is changed. 
+
+
+                              Statement of Purpose
+Humans evolved in small communities based on cooperation and local enforcement of social mores.
+Antisocial behavior was punished by the community through ostracization or corporal punishment. 
+The emergence of globe-spanning empires and conglomerates, along with the legal systems that have
+sprouted in their shade have supplanted personal justice, and replaced it with a system of courts,
+lawyers, appeals, lubricated by money and weighted in favor of amoral multinational corporations who
+use their massive political influence to create a system that concentrates wealth and power in the
+hands of a tiny percentage of people.
+
+This license is designed to cut through the legal bullshit that permeates every facet of our daily
+lives, and replace it with a simple covenant between two people, the Author and the User. Using the
+Author's time, talent, and ideas, this work has been created and made available to all to copy
+modify, and distribute. In return, the User may not, in any capacity, be a fucking asshole to the
+Author.
+
+
+                      CROSS ME & YOU'RE FUCKED PUBLIC LICENSE 
+          TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+  At all times, proper attribution must be provided. The User may do whatever the fuck she desires
+  to the "Software" but proper attribution and therefore respect must be lent to the Author. 
+  Failure to provide such attribution in any form (a link, a name or simply a dank meme nodding 
+  it's head at the Author) is to be interpreted as intentional malice brought against the Author.
+
+  Most importantly, do not, by any means, attempt to fuck the Author. Redistribution or use without
+  crediting the Author is considering attempting to "fuck" the Author. Breaking the "Software" in
+  the Author's repository at any point is considered "fucking" with the Author. Be a good person, 
+  do not fuck the Author.
+
+  The person responsible for determining whether they have been fucked, and therefore crossed, is
+  the Author.
+
+  When the Author has been crossed, defined as the User attempting to, or succeeding in "fucking"
+  the Author, the Author reserves the right to fuck the User. If you cross the Author, you are
+  fucked. To fuck the User means that all access, privilege, and rights to future software to 
+  be written by the Author will be revoked. Additionally, the Author reserves the right to 
+  harm the User physically if the two ever meet away from keyboard.
+
+  Such physical retaliation may be, but is not limited to, punching in the face.
+
+
+                                            TL;DR
+In short, after reading this license agreement it should be clear that the User can do whatever the
+fuck she wants with the Software so long as she is a civil human being. Essentially:
+  Do not be a dick and make me punch you in the face.
+
